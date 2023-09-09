@@ -1,0 +1,98 @@
+---
+id: base5-31
+name: Dark Weezing
+supertype: Pokémon
+subtypes:
+- Stage 1
+level: '24'
+hp: '60'
+types:
+- Grass
+evolvesFrom: Koffing
+attacks:
+- name: Mass Explosion
+  cost:
+  - Grass
+  - Colorless
+  convertedEnergyCost: 2
+  damage: 20×
+  text: Does 20 damage times the total number of Koffings, Weezings, and Dark Weezings
+    in play (Apply Weakness and Resistance.). Then, this attack does 20 damage to
+    each Koffing, Weezing, and Dark Weezing (even your own). Don't apply Weakness
+    and Resistance.
+- name: Stun Gas
+  cost:
+  - Grass
+  - Grass
+  - Grass
+  convertedEnergyCost: 3
+  damage: '20'
+  text: Flip a coin. If heads, the Defending Pokémon is now Poisoned; if tails, the
+    Defending Pokémon is now Paralyzed.
+weaknesses:
+- type: Psychic
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: base5
+  name: Team Rocket
+  series: Base
+  printedTotal: 82
+  total: 83
+  legalities:
+    unlimited: Legal
+  ptcgoCode: TR
+  releaseDate: 2000/04/24
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/base5/symbol.png
+    logo: https://images.pokemontcg.io/base5/logo.png
+number: '31'
+artist: Shin-ichi Yoshida
+rarity: Rare
+flavorText: Researchers have observed these Pokémon reproducing in industrial waste
+  sites.
+nationalPokedexNumbers:
+- 110
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/base5/31.png
+  large: https://images.pokemontcg.io/base5/31_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/base5-31
+  updatedAt: 2023/09/08
+  prices:
+    1stEdition:
+      low: 3.75
+      mid: 5.2
+      high: 11.5
+      market: 6.2
+      directLow: 
+    unlimited:
+      low: 1.5
+      mid: 2.19
+      high: 6.97
+      market: 2.47
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/base5-31
+  updatedAt: 2023/09/08
+  prices:
+    averageSellPrice: 3.46
+    lowPrice: 0.5
+    trendPrice: 3.35
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 6.93
+    lowPriceExPlus: 2.7
+    avg1: 2.82
+    avg7: 3.93
+    avg30: 4.65
+    reverseHoloAvg1: 18.0
+    reverseHoloAvg7: 5.37
+    reverseHoloAvg30: 4.77

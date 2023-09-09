@@ -1,0 +1,67 @@
+---
+id: base5-81
+name: Full Heal Energy
+supertype: Energy
+subtypes:
+- Special
+rules:
+- If you play this card from your hand, the Pokémon you attach it to is no longer
+  Asleep, Confused, Paralyzed, or Poisoned.
+- Full Heal Energy provides Colorless energy. (Doesn't count as a basic Energy card.)
+set:
+  id: base5
+  name: Team Rocket
+  series: Base
+  printedTotal: 82
+  total: 83
+  legalities:
+    unlimited: Legal
+  ptcgoCode: TR
+  releaseDate: 2000/04/24
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/base5/symbol.png
+    logo: https://images.pokemontcg.io/base5/logo.png
+number: '81'
+artist: Keiji Kinebuchi
+rarity: Uncommon
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/base5/81.png
+  large: https://images.pokemontcg.io/base5/81_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/base5-81
+  updatedAt: 2023/09/08
+  prices:
+    1stEdition:
+      low: 0.38
+      mid: 0.92
+      high: 5.99
+      market: 1.18
+      directLow: 0.99
+    unlimited:
+      low: 0.24
+      mid: 0.45
+      high: 75.0
+      market: 0.5
+      directLow: 0.24
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/base5-81
+  updatedAt: 2023/09/08
+  prices:
+    averageSellPrice: 0.55
+    lowPrice: 0.02
+    trendPrice: 0.36
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.5
+    lowPriceExPlus: 0.1
+    avg1: 0.98
+    avg7: 0.65
+    avg30: 0.66
+    reverseHoloAvg1: 0.5
+    reverseHoloAvg7: 0.5
+    reverseHoloAvg30: 0.5
